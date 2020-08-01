@@ -1,0 +1,11 @@
+
+tehnici de programare
+
+
+pointeri
+referinte
+multimi
+liste
+grafuri
+arbori
+algoritmi
